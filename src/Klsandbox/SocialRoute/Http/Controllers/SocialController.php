@@ -3,7 +3,7 @@
 namespace Klsandbox\SocialRoute\Http\Controllers;
 
 
-use App\Http\Controllers;
+use App\Http\Controllers\Controller;
 use App\User;
 use Auth;
 use Laravel\Socialite\Contracts\Factory as Socialite;
